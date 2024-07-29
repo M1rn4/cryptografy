@@ -1,2 +1,0 @@
-# cryptografy
-Excersices about cryptografy
